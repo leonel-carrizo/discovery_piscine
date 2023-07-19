@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;600;800&display=swap");
+
+:root {
+	--img-1: url("https://c.wallhere.com/photos/54/45/mountains_landscape_blue_nature_sky_snow_clouds_Mount_Everest-1381985.jpg!d");
+	--img-2: url("https://i.pinimg.com/originals/61/bd/79/61bd796e242e65ac0eef796cf1abbe9d.jpg");
+	--img-3: url("https://images.hdqwalls.com/wallpapers/mount-everest-qhd.jpg");
+}
+
+body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	color: #e8ede3;
+}
+
+.img-bg-1, .img-bg-2, .img-bg-3{ 
+	position: relative;
+	opacity: 0.65;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2 {
+	letter-spacing: 5px;
+	text-transform:uppercase;
+	color: #111;
+}
+
+.img-bg-1{
+	background-image: var(--img-1);
+	min-height: 100vh;
+}
+.caption{ 
+	position: absolute;
+	left: 0;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: black;
+}
+.caption span.border{
+	background-color: black;
+	color: #e8ede3;
+	padding: 18px;
+	font-size: 25px;
+	letter-spacing: 10px;
+}
+.other-1{ 
+	color: #777;
+	background-color: white;
+	text-align: center;
+	padding: 50px 80px;
+	text-align:justify;
+}
+.other-1 h2{ 
+	text-align: center;
+}
+
+.img-bg-2{ 
+	background-image: var(--img-2);
+	min-height: 400px;
+}
+
+.img-bg-2 .caption .border{
+	background-color: transparent;
+	font-size: 25px;
+	color: #f7f7f7;
+	font-weight: 900;
+}
+
+.other-2 { 
+	position: relative;
+}
+.other-2-in{ 
+	color: #ddd;
+	background-color: #282e34;
+	text-align: justify;
+	padding: 50px 80px;
+}
+
+.img-bg-3{ 
+	background-image: var(--img-3);
+	min-height: 400px;
+}
+.img-bg-3 .caption .border span{ 
+	background-color: transparent;
+	font-size: 25px;
+	color: #f7f7f7;
+}
+.other-3{ 
+	position: relative;
+}
+.other-3-in{ 
+	color: #ddd;
+	background-color: #282e34;
+	padding: 50px 80px;
+	text-align: center;
+	font-size: 40px;
+}
+
