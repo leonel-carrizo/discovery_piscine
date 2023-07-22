@@ -1,20 +1,18 @@
 # Discovery_piscine
-
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://42london.com/">
-    <img src="images/banner1.png" alt="discoveryCover">
-    <img src="images/banner2.png" alt="discoveryCover2">
+    <img width="800" src="images/banner1.png" alt="discoveryCover">
   </a>
+    <img width="800" src="images/banner2.png" alt="discoveryCover2">
+</p>
 <br>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 - [About the project](#about-discovery-piscine)
-  * [Parts of the project](#project)
-  * [Languages](#languages)
+  * [Parts of the project](#projects)
   * [Technologies](#technologies)
 - [License](#license)
 
@@ -39,7 +37,7 @@ To participate in the discovery pool, you need a commitment to attend daily and 
 * [x] **Cellule4:** Rush, create your fisrt portfolio whit **Boobstrap**
 <br>
 
-### Technologies 🛠
+### Technologies🛠
 
 * [x] Shell
 * [x] HTML
@@ -50,7 +48,7 @@ To participate in the discovery pool, you need a commitment to attend daily and 
 <br>
 
 <!--LICENSE -->
-## License ⚖
+## License⚖
 
 [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE` for more information.
 
