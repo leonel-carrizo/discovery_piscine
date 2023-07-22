@@ -5,12 +5,8 @@
 <p align="center">
   <a href="https://42london.com/">
     <img src="images/banner1.png" alt="discoveryCover">
+    <img src="images/banner2.png" alt="discoveryCover2">
   </a>
-<br>
-
-<div align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/stats?cursusId=3&coalitionId=66"> </a> 
-</div>
 <br>
 
 <!-- TABLE OF CONTENTS -->
